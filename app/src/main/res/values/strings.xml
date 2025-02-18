@@ -1,0 +1,217 @@
+<resources>
+    <string name="app_name">PixelTopList</string>
+    <integer-array name="game_background">
+        <item>@drawable/bg1</item>
+        <item>@drawable/bg2</item>
+        <item>@drawable/bg3</item>
+        <item>@drawable/bg4</item>
+        <item>@drawable/bg5</item>
+        <item>@drawable/bg6</item>
+        <item>@drawable/bg7</item>
+        <item>@drawable/bg8</item>
+        <item>@drawable/bg9</item>
+        <item>@drawable/bg10</item>
+    </integer-array>
+    <integer-array name="game_logo">
+        <item>@drawable/logo1</item>
+        <item>@drawable/logo2</item>
+        <item>@drawable/logo3</item>
+        <item>@drawable/logo4</item>
+        <item>@drawable/logo5</item>
+        <item>@drawable/logo6</item>
+        <item>@drawable/logo7</item>
+        <item>@drawable/logo8</item>
+        <item>@drawable/logo9</item>
+        <item>@drawable/logo10</item>
+    </integer-array>
+    <string-array name="game_judul">
+        <item>Omori</item>
+        <item>Undertale</item>
+        <item>Stardew Valley</item>
+        <item>Octopath Traveler II</item>
+        <item>A Space For The Unbound</item>
+        <item>Until Then</item>
+        <item>Dead Cells</item>
+        <item>Papers, Please</item>
+        <item>Coffe Talk</item>
+        <item>Celeste</item>
+    </string-array>
+    <string-array name="game_sinopsis">
+        <item>
+            A psychological adventure in the world of dreams and reality, with themes of trauma, friendship, and loss.
+        </item>
+        <item>
+            An RPG where players choose to befriend or fight monsters, drastically altering the story.
+        </item>
+        <item>
+            Farming simulation and rural life, building relationships, and exploring an open world.
+        </item>
+        <item>
+            A turn-based JRPG with eight unique protagonists, each with their own story and different abilities.
+        </item>
+        <item>
+            A narrative adventure in Indonesia with themes of youth, mental health, and supernatural powers.
+        </item>
+        <item>
+            An intimate narrative about relationships, friendships, and farewells in a world filled with the warmth of nostalgia.
+        </item>
+        <item>
+            A fast-paced roguelike with hack-and-slash action, players start over from the beginning after death.
+        </item>
+        <item>
+            A border guard simulation, where players must decide the fate of individuals based on their documents.
+        </item>
+        <item>
+            A barista simulation with a focus on a relaxed narrative about life and relationships in a fantasy world.
+        </item>
+        <item>
+            A challenging platformer about the journey against depression and fear while climbing a mountain.
+        </item>
+    </string-array>
+    <string name="title_activity_detail_page"></string>
+    <string name="rajawali_shaktika_anugrah_prasetya">Rajawali Shaktika Anugrah Prasetya</string>
+    <string name="rajawali_prasetya4_gmail_com">rajawali.prasetya4@gmail.com</string>
+    <string name="about"></string>
+    <string-array name="game_scrolltext">
+        <item>
+            Omori is a role-playing video game from 2020 developed and published by the indie studio Omocat.
+            In the game, players control a hikikomori teenage boy named Sunny and his dream world avatar, Omori.
+            They explore the real world and the surreal dream world of Sunny, either confronting or suppressing their fears and forgotten secrets.
+            How they interact depends on the choices made by the player, resulting in one of several endings.
+            The turn-based combat system includes unconventional status effects based on the characters emotions.
+            Clearly depicting concepts such as anxiety, depression, guilt, mental illness, psychological trauma, and suicide, this game features strong elements of psychological horror.
+
+            This game is adapted from the webcomic series Omori (ひきこもり, hikikomori).
+            After a successful Kickstarter campaign, the game was delayed multiple times and faced several development challenges.
+            Omori was finally released for Windows and macOS in December 2020, six years after its initial funding.
+            Omori will also be released on Nintendo Switch, Xbox One, Xbox Series X/S, and PlayStation 4 with additional content in June 2022.
+            Omori has been praised by critics, who commend it for its graphics, narrative elements, soundtrack, and portrayal of anxiety and depression.
+        </item>
+        <item>
+            Undertale is a two-dimensional RPG game from the United States, produced in 2015 by independent developer Toby Fox.
+            The player controls a child who has fallen into the Underground: a vast, remote area beneath the Earth surface, separated by a magical barrier. Players encounter various monsters during their journey back to the surface, although some monsters may engage players in battle.
+            The combat system involves players navigating through mini shooting attacks from opponents.
+            They can choose to calm or conquer the monster in order to save themselves from killing it.
+            This choice affects the game. Along with dialogue, characters, and a story that changes based on the steps taken.
+        </item>
+        <item>
+            Stardew Valley is a role-playing video game that simulates farming and ranching, developed independently by Eric Barone.
+            The video game is available for Microsoft Windows, Mac, Linux, PlayStation 4, Xbox, Nintendo Switch, PlayStation Vita, Android, and iOS.
+            This game was launched on February 26, 2016.
+            In this game, players take on the role of a farmer and rancher on a plot of land inherited from their grandfather, located in a small town called Stardew Valley, far from the hustle and bustle of big city life.
+            Players are expected to manage their time allocation, remaining energy, as well as resources and savings that have been carefully stored, which will then be used for clearing fields, planting and caring for crops, taking care of livestock, crafting necessary furniture and equipment, mining various types of minerals, and actively participating in a series of social activities with the residents living around the Stardew Valley area, including matters related to wedding activities.
+        </item>
+        <item>
+            Octopath Traveler II is a role-playing video game developed by Square Enix and Acquire, and published by Square Enix.
+            This is a sequel to Octopath Traveler (2018) and the third entry in the series following the mobile prequel game Octopath Traveler: Champions of the Continent (2020), although it features a new set of characters and a setting separate from the previous games.
+            This game was released globally in February 2023 for Nintendo Switch, PlayStation 4, PlayStation 5, and Windows; it is the first Octopath game released on PlayStation platforms.
+            The Xbox One and Xbox Series X/S versions will be released in June 2024.
+            Octopath Traveler II received positive reviews from critics.
+
+            Similar to the first Octopath Traveler, this game functions as a traditional JRPG.
+            Players move between eight separate characters, each with their own goals to explore the game world.
+            Once again, each character has their own "path action" - a specific way for players to make that character interact with non-player characters in the game world, often with the goal of obtaining reward items or characters to fight in support of their objectives.
+            What’s new in this sequel is the presence of different "day" and "night" gameplay segments, with actions varying depending on the time of day.
+            For example, players can choose to have the character Hikari fight against another character during the day, hoping to learn new combat skills, but at night, there is a separate option to spend in-game currency to bribe characters for information or items.
+        </item>
+        <item>
+            A Space for the Unbound is a video game in the adventure genre developed by Mojiken Studio and published by Toge Productions.
+            A Space for the Unbound was released on January 19, 2023, on the Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S platforms.
+            The player controls Atma, a high school student from Surabaya who spends his time exploring the city of Loka with his girlfriend, Raya.
+            Using a magical red book he received from a girl, Atma can enter people hearts, learn about their greatest fears and desires, and then help resolve the problems they face.
+            Meanwhile, Raya has stronger abilities, such as lifting objects and stopping people with her mind, as well as altering the reality of the world.
+            The video game A Space for the Unbound is shaped as an adventure with narrative puzzles.
+            Players can talk to other characters and pick up items, then use those items to advance the game\'s story.
+        </item>
+        <item>
+            Until Then is a side-scrolling adventure game with pixel art graphics, featuring 2D sprites in a 3D space.
+            This is also described as a visual novel, although with more interactive elements compared to conventional games in that genre.
+
+            The player controls Mark Borja, a high school student who lives alone in his family home while his parents work abroad.
+            Players can move left and right in the current environment and interact with certain objects to advance the game story.
+            At certain moments in the game story, players can interact with their smartphones, which include messaging apps and a version of Facebook within the game world, where players can choose to like and share posts made by other characters in the story.
+            When sending a message, players are required to press any key on the keyboard to type the message that will be sent by Mark, whether it is pre-defined or chosen by the player.
+            This game also features several mini-games, such as poking fish balls by adjusting the position and strength of the poke; singing on a karaoke machine by pressing the correct buttons as they reach the top of the screen; and painting by clicking and dragging specific patterns on the screen.
+        </item>
+        <item>
+            Dead Cells is a 2D side-scrolling "roguevania", a combination of the roguelike and Metroidvania genres.
+            The player controls the Prisoner, an amorphous creature who journeys across an island full of mutated monsters.
+            When the player dies, they lose all weapons and upgrades obtained in a playthrough, excluding a few permanent items.
+            Weapons primarily include swords, bows, shields, and placeable traps that harm enemies that come near them.
+            In combat, the Prisoner can dodge across the ground to avoid the attacks of enemies, or jump over the attacks.
+            Dodging into an enemy space allows the Prisoner to move through them and attack from behind.
+            When falling from a height, the Prisoner can slam into the ground, allowing them to stun enemies, or allow the Prisoner to fall from heights without getting stunned themselves.
+            The game combat is comparable to the Dark Souls series, with difficult enemies possessing certain behaviors the player can learn, and where frequent player-character death is a fundamental part of the game.
+            As they explore a series of levels and fight the creatures within, the player can collect an in-game currency called Cells from defeated foes.
+            Cells can be used to purchase permanent upgrades, such as potions that restore hit points or additional weapons that may be randomly obtained during a playthrough.
+            These Cells can only be spent at the end of a dungeon section; if the player dies before then, they lose all collected Cells. New upgrade options can
+            be found by locating blueprints inside dungeons, which must be taken out of the level
+            to be collected.
+
+            Levels are procedurally generated by the merging of predesigned sections in a random configuration, creating dungeons with many different placements of enemies and items.
+            Between dungeons, the player can obtain a limited number of mutations, benefits which grant unique bonuses to the Prisoner\'s capabilities that last until they die.
+            The player can reforge weapons during this time, giving the reforged weapons new effects during combat.
+            Inside the dungeons, the player can find hidden Power Scrolls, which increase the Prisoner\'s hit points and increase the damage of weapons depending upon the tool\'s classification of Brutality, Tactics, or Survival.
+            The player can also find multiple permanent upgrades called Runes, which allow for new methods of travel in the game\'s levels.
+            Runes can be obtained by defeating powerful Elite enemies, which are located inside the game\'s levels. Each upgrade requires the previous Rune in order to obtain the next one.
+        </item>
+        <item>
+            The game Papers, Please focuses on the working life of an immigration inspector at a border checkpoint in a fictional country called Arstotzka in 1982.
+            In the game timeline, the newly established Arstotzka has just ended a six-year war with the neighboring country of Kolechia, but political tensions between them remain high.
+            As a checkpoint inspector, the player reviews the documents of incoming individuals and uses various means to determine whether the documents are in order to apprehend certain individuals such as terrorists, criminals, smugglers, and participants with fake or stolen documents; identifying undesirable individuals such as those lacking a polio vaccine, especially anti-vaxxers, expired vaccines, missing necessary documents, or expired documents from abroad; and allowing others to pass through. For each day in the game, players provide specific rules about what documents are required and the conditions for allowing or denying entry, which will become increasingly difficult as each day goes by.
+            One by one, immigrants arrive at the checkpoint and present their documents.
+            Players can use several tools to review the documents to ensure that they are correct.
+            When discrepancies are found, they take the participant fingerprints while simultaneously requesting a copy of the participant fingerprint records to prove or eliminate names or discrepancies in physical descriptions, requesting a full body examination to substantiate objections or to check for any apparent discrepancies in biological sex, or to gather incriminating evidence to apprehend the participant.
+            There is an opportunity for players to have participants caught, and for a moment, to attempt to bribe the inspector.
+            Players must finally stamp the participants passports (or the temporary passport insert if the individual does not have a passport) to accept or deny entry.
+            If a player violates the protocol, a citation will be issued after the participant leaves it.
+
+            Generally, players can commit two fouls without penalty; thereafter, further fouls result in an increase in financial penalties deducted from their daily wages.
+            From each day that ends in the game, players earn money based on how many individuals have been processed (5 credits for each person who enters the post before the work ends) and the bribes received, except for a penalty for protocol violations, and they must determine the basic costs for renting a home, food, heating, and other desires for low-income housing for themselves and their families.
+            The player also ensures not to earn too much money through illegal means, resulting in his family being reported and the money they had earned subsequently being seized by the government.
+            When the relationship between Arstotzka and other countries begins to deteriorate, sometimes due to terrorist attacks, new rules are always added, based on the game\'s narrative, such as denying entry to citizens from various countries or requiring new types of documentation.
+            Players will face moral dilemmas as the game progresses, such as allowing the wife of an immigrant entry despite lacking complete documentation, risking the entry of terrorists into the country.
+            This game produces different participants and encrypted meetings.
+            Different participants are created using a template.
+            A mysterious organization called EZIC also emerges, with several members appearing at checkpoints, giving orders to inspectors to overthrow the government and establish a new one; the player can choose to assist this organization or not, allowing members to kill the strongest individuals deemed too corrupt to live and personally eliminate rival agents for the organization.
+            This video game features a story mode written with twenty possible endings depending on the actions taken by the player, as well as several unlockable endless random gameplay modes.
+        </item>
+        <item>
+            Coffee Talk is a visual novel game, and most of its storyline consists of dialogues between the characters.
+            This dialogue is periodically broken down into mini-games where players brew various drinks using the ingredients available at the coffee shop.
+            Certain drinks give players the option to create latte art.
+            Drinks made by players can have effects on the events of the game storyline, and thus this mini-game serves as the primary means of interaction with the game available to players.
+            The player\'s character can access their smartphone at any time to view the social media profile of the game character, refer to a list of known drink recipes, read short fiction published in the games fictional newspaper, and change the currently playing song.
+        </item>
+        <item>
+            Celeste is a two-dimensional platform game.
+            The player controls Madeline, who has the ability to run, jump, climb walls for a limited time, wall jump, and dash in mid-air in one of eight directions.
+            Certain objects grant Madeline additional abilities.
+            Green gems refill her dash ability without the need to land on the ground.
+            Other objects include "dream blocks" that transport her from one side to another when dashed into, moving blocks that can transfer their momentum to Madeline when jumped off of, bubbles that move her when touched, and platforms that move after she dashes.
+            The difficulty can be lowered through the use of an "Assist Mode", a setting that provides accessibility options including a lowered game speed, unlimited use of the dash ability, or the option to grant Madeline invincibility.
+            The base game is made up of nine chapters divided into multiple single-screen challenges, with checkpoints in between screens.
+
+            Chapters contain branching paths leading to optional challenges and hidden collectibles, including strawberries, cassette tapes to crystal hearts that unlock certain gates.
+            Certain chapters contain a boss character.
+            Each chapter except from chapter nine has a "B-side" and C-side level that reuses mechanics from the main level to create a more difficult experience.
+            B-side levels can be unlocked by locating the hidden cassette tape in its corresponding level.
+            After completing all eight B-sides, "C-side" levels are unlocked that are shorter in length but with increased difficulty.
+            The Farewell expansion adds a new chapter that excludes B-side options and ordinary strawberries, and adds grabbable jellyfish that function as a parachute, exploding pufferfish that can launch Madeline, and "double-dash" gems that give Madeline two dashes when collected.
+        </item>
+
+    </string-array>
+
+    <string-array name="link">
+        <item>https://en.wikipedia.org/wiki/Omori_(video_game)</item>
+        <item>https://en.wikipedia.org/wiki/Undertale</item>
+        <item>https://en.wikipedia.org/wiki/Stardew_Valley</item>
+        <item>https://en.wikipedia.org/wiki/Octopath_Traveler_II</item>
+        <item>https://en.wikipedia.org/wiki/A_Space_for_the_Unbound</item>
+        <item>https://en.wikipedia.org/wiki/Until_Then</item>
+        <item>https://en.wikipedia.org/wiki/Dead_Cells</item>
+        <item>https://en.wikipedia.org/wiki/Papers,_Please</item>
+        <item>https://en.wikipedia.org/wiki/Coffee_Talk_(video_game)</item>
+        <item>https://en.wikipedia.org/wiki/Celeste_(video_game)</item>
+    </string-array>
+</resources>

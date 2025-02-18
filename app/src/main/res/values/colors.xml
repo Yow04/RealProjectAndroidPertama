@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="birumuda">#BAD8EB</color>
+    <color name="startgradient">#103783</color>
+    <color name="endgradient">#9bafd9</color>
+    <color name="menucolor1">#0974f1</color>
+    <color name="menucolor2">#9fccfa</color>
+    <color name="birumanyala">#00ffec</color>
+    <color name="birurada">#01bcae</color>
+    <color name="splash1">#00e3fd</color>
+    <color name="splash2">#6ef195</color>
+</resources>
